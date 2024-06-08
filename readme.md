@@ -1,3 +1,3 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; linear-gradient(45deg, #fdff00, transparent), url(https://raw.githubusercontent.com/hsnlbnan/gh/main/js-bg.png);]{x0000}$}
+\ce{$\unicode[goombafont; font-family: goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/paulpierre/paulpierre/assets/142327/4c456c97-dfd9-4020-9f05-99d69b3d0d61');]{x0000}$}
 ```
